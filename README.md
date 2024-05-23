@@ -20,19 +20,6 @@
   <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg' alt='git' width='40px' height='40px'  />
   </div
  
-# :fire: My Stats :
-
-<div align='center'>
-  <a href="https://github.com/mmpacker/github-readme-stats">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=AGBOOLA-JOEL&theme=vision-friendly-dark&show_icons=true" />
-  </a>&nbsp&nbsp
-  <a href="https://git.io/streak-stats">
-    <img height=200 src="http://github-readme-streak-stats.herokuapp.com?user=AGBOOLA-JOEL&theme=dark&background=000000" />
-  </a>&nbsp&nbsp
-  <a href="https://github.com/mmpacker/github-readme-stats">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AGBOOLA-JOEL&theme=vision-friendly-dark" />
-  </a>
-</div>
 
 <hr/>
 
