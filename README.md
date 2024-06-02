@@ -52,7 +52,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-<img  src="https://raw.githubusercontent.com/AGBOOLA-JOEL/AGBOOLA-JOEL/output/github-contribution-grid-snake.svg" alt="contribution graph" />
+<img  src="https://raw.githubusercontent.com/AGBOOLA-JOEL/output/github-contribution-grid-snake.svg" alt="contribution graph" />
 </div>
 <br>
 <div align=center>
