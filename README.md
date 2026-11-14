@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AGBOOLA-JOEL&bg_color=00000000&color=9b9a97&line=9b9a97&point=9b9a97&area=true&area_color=9b9a97&hide_border=true&hide_title=true" alt="Contribution activity over the last month" />
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AGBOOLA-JOEL&theme=transparent" alt="GitHub contribution summary" />
     </td>
   </tr>
   <tr>

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title description">
+  <title id="title">AGBOOLA JOEL</title>
+  <desc id="description">Frontend engineer building thoughtful web and mobile products.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111214"/>
+      <stop offset="0.52" stop-color="#1b1d21"/>
+      <stop offset="1" stop-color="#0d0e10"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#d7d4ce"/>
+      <stop offset="1" stop-color="#777b84"/>
+    </linearGradient>
+    <filter id="soft-glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+    <style>
+      .tile { animation: breathe 7s ease-in-out infinite alternate; }
+      .tile:nth-of-type(2n) { animation-delay: -2s; }
+      .tile:nth-of-type(3n) { animation-delay: -4s; }
+      @keyframes breathe {
+        from { opacity: .18; }
+        to { opacity: .56; }
+      }
+    </style>
+  </defs>
+
+  <rect width="1200" height="320" rx="24" fill="url(#background)"/>
+  <circle cx="1030" cy="86" r="128" fill="#808691" opacity=".16" filter="url(#soft-glow)"/>
+  <circle cx="170" cy="284" r="118" fill="#b2aea5" opacity=".10" filter="url(#soft-glow)"/>
+
+  <g fill="none" stroke="#d7d4ce" stroke-width="1" opacity=".24">
+    <path d="M0 80h1200M0 160h1200M0 240h1200"/>
+    <path d="M120 0v320M240 0v320M360 0v320M480 0v320M600 0v320M720 0v320M840 0v320M960 0v320M1080 0v320"/>
+  </g>
+
+  <g fill="url(#accent)">
+    <rect class="tile" x="34" y="28" width="82" height="48" rx="12"/>
+    <rect class="tile" x="124" y="86" width="104" height="66" rx="14"/>
+    <rect class="tile" x="42" y="168" width="136" height="54" rx="14"/>
+    <rect class="tile" x="204" y="232" width="76" height="48" rx="12"/>
+    <rect class="tile" x="936" y="28" width="104" height="48" rx="12"/>
+    <rect class="tile" x="1054" y="92" width="112" height="68" rx="14"/>
+    <rect class="tile" x="978" y="180" width="142" height="54" rx="14"/>
+    <rect class="tile" x="1090" y="250" width="74" height="42" rx="12"/>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <text x="346" y="142" fill="#f1efeb" font-size="54" font-weight="650" letter-spacing="8">AGBOOLA JOEL</text>
+    <text x="400" y="190" fill="#aaa8a3" font-size="17" letter-spacing="3">FRONTEND ENGINEER · WEB + MOBILE</text>
+  </g>
+
+  <rect x="1" y="1" width="1198" height="318" rx="23" fill="none" stroke="#ffffff" opacity=".10" stroke-width="2"/>
+</svg>
