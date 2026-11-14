@@ -1,19 +1,77 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=eno.eno" /> <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Agboola+Joel+Oluwafisayo!;" /> </h1> <h3 align="center">Frontend Developer focused on the React ecosystem — building fast, type-safe, user-first products across web and mobile.</h3> <br/> <div align="center">
+<div align="center">
 
-🔭 I'm currently building fintech products — trading apps, loan/asset management tools, and multi-tenant whitelabel dashboards
+<img src="assets/mosaic.svg" width="100%" alt="AGBOOLA JOEL, set in a quiet animated mosaic" />
 
-🛠️ I work across the full frontend stack: React, Next.js (Pages & App Router), React Native, TypeScript — with enough backend fluency (NestJS, Prisma, tRPC) to integrate and ship end-to-end
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3400&pause=1100&color=9B9A97&center=true&vCenter=true&width=720&height=36&lines=Frontend+engineer+%C2%B7+React+ecosystem;Fintech%3A+trading%2C+lending%2C+whitelabel+dashboards;Fast%2C+type-safe%2C+user-first+%E2%80%94+web+and+mobile" alt="Frontend engineer, React ecosystem" />
 
-🌱 I'm currently learning Dart and going deeper into NestJS
+<a href="mailto:oluwafisayojoel@gmail.com">Email</a> &nbsp;·&nbsp;
+<a href="https://x.com/Jud_the_fifth">X</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/agboola-joel-23138526a/">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://agboola-joel.notion.site/JOEL-O-AGBOOLA-2417cf9e407280769c38d332dd1764b6">Portfolio</a>
 
-📚 Write's Blogs at Twitter
+</div>
 
-💬 Ask me about React, Next.js, React Native, Node.js, NestJS, or system/UI design... or anything here
+<br/>
 
-⚡ Fun fact World's first developer was a woman
+<table>
+  <tr>
+    <td width="34%" valign="top">
+      <b>Now</b><br/><br/>
+      Building fintech products: trading apps, loan and asset management tools, and multi-tenant whitelabel dashboards.
+    </td>
+    <td width="33%" valign="top">
+      <b>Range</b><br/><br/>
+      The full frontend stack, with enough backend fluency (NestJS, Prisma, tRPC) to ship end-to-end.
+    </td>
+    <td width="33%" valign="top">
+      <b>Next</b><br/><br/>
+      Learning Dart and going deeper into NestJS. I write on <a href="https://x.com/Jud_the_fifth">X</a>.
+    </td>
+  </tr>
+</table>
 
-</div> <div align="center"> <a href="mailto:oluwafisayojoel@gmail.com"> <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> </a> <a href="https://x.com/Jud_the_fifth" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" /> </a> <a href="https://www.linkedin.com/in/agboola-joel-23138526a/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> </a> <a href="https://agboola-joel.notion.site/JOEL-O-AGBOOLA-2417cf9e407280769c38d332dd1764b6" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options --> </a> </div> <hr/> <h2 align="center">💼 What I Build</h2> <br/> <div align="center">
+### What I build
 
-Design systems & component libraries  •  Mobile POS & trading apps with React Native  •  Type-safe Next.js apps integrated with RESTful/NestJS backends  •  Multi-tenant whitelabel dashboards  •  Legacy React → Next.js migrations  •  Performance optimization (code splitting, lazy loading, state management)
+<table>
+  <tr>
+    <td width="34%" valign="top"><b>Design systems</b><br/>Component libraries that keep product teams consistent.</td>
+    <td width="33%" valign="top"><b>Mobile POS and trading</b><br/>React Native apps that move real money.</td>
+    <td width="33%" valign="top"><b>Type-safe Next.js</b><br/>Apps integrated with REST and NestJS backends.</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Whitelabel dashboards</b><br/>One codebase, many tenants, many brands.</td>
+    <td valign="top"><b>Legacy migrations</b><br/>Old React codebases moved to Next.js.</td>
+    <td valign="top"><b>Performance</b><br/>Code splitting, lazy loading, lean state.</td>
+  </tr>
+</table>
 
-</div> <br/> <hr/> <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2> <br/> <div align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,react,html,css,tailwind,mui" /> <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mysql,postgres,mongodb,git,github,figma,vscode" /><br> </div> <br/> <hr/> <h2 align="center">⚡ Stats ⚡</h2> <br> <div> <img width=400 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=AGBOOLA-JOEL&count_private=true&theme=react&border_radius=10" alt="streak stats"/> <img width=400 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=AGBOOLA-JOEL&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> </div>
+### Toolbox
+
+`React` `Next.js` `React Native` `TypeScript` `JavaScript` `Tailwind` `MUI` `Figma`
+
+`Node.js` `NestJS` `Express` `Prisma` `tRPC` `PostgreSQL` `MySQL` `MongoDB` `Git`
+
+### Contributions
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-stats-salesp07.vercel.app/api?username=AGBOOLA-JOEL&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_title=true&bg_color=00000000&title_color=9b9a97&text_color=9b9a97&icon_color=9b9a97&ring_color=9b9a97" alt="GitHub stats" />
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=AGBOOLA-JOEL&count_private=true&hide_border=true&background=00000000&ring=9b9a97&fire=9b9a97&currStreakLabel=9b9a97&currStreakNum=9b9a97&sideNums=9b9a97&sideLabels=9b9a97&dates=9b9a97&stroke=9b9a97" alt="Contribution streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AGBOOLA-JOEL&bg_color=00000000&color=9b9a97&line=9b9a97&point=9b9a97&area=true&area_color=9b9a97&hide_border=true&hide_title=true" alt="Contribution activity over the last month" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img width="55%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=AGBOOLA-JOEL&hide=HTML&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true&hide_title=true&bg_color=00000000&text_color=9b9a97" alt="Most used languages" />
+    </td>
+  </tr>
+</table>
+
+<div align="center"><sub>Ask me about React, Next.js, React Native, Node.js, NestJS, or system and UI design.</sub></div>
